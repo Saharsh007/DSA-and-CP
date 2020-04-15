@@ -1,0 +1,17 @@
+why it's so important : 
+Linked lists? Print a linked list in reverse order.
+Strings? Determine if a string is a palindrome.
+Trees and graphs? Have fun doing an iterative DFS.
+Dynamic programming? Okay do you get my point? This is all recursive.
+
+can't do these without recursion..
+
+to understand recursion 
+1. Draw recursion Tree
+2. don't lose track of your variables
+3. practice.
+
+Where to use recursion?
+1. Hierarchies, Networks, or Graphs
+2. Multiple Related Decisions
+3.Explicit Recursive Relationships

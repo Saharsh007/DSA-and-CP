@@ -1,0 +1,23 @@
+overlapping subprolem:
+
+1. Does the problem involve maximization, minimization, optimization or counting?
+ex shortest path through the maze : MINIMIZATION PROBLEM
+    longest path through the maze : maximization problem
+
+2. The problem requires to go through all the solutions to find the best one. This is also DP.
+
+3. Try the FIRST method.
+Find the first solution, Analyze the solution, identify the Subproblems, and Turn around the solution
+
+    a. FIND BRUTE FORCE APPROACH.
+        HOW?
+        each recursive call must be self contained, that is no global variable updation.
+        few arguments to pass to the function as possible.
+    b. ANALYZE THE FIRST SOLUTION
+        draw the tree to know the complexity and identify if it has overlapping and optimal substructure problem.
+    c. IDNETIFY THE SUBPROBLEMS .
+    d. TRUN AROUND THE SOULTION
+        convert top-down approach to bottom-up approach as it's faster.
+        bottom-up approach is iterative.
+
+        
